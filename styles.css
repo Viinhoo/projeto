@@ -1,1 +1,4 @@
-colgroup::grammar-error
+.centered-input {
+    display: block;
+    margin: 0 auto;
+}
